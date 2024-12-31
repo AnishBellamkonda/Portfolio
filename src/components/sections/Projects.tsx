@@ -14,7 +14,7 @@ export const Projects = () => {
     {
       title: "E-Commerce Platform",
       description: "Developed a scalable e-commerce platform with React.js and Node.js.",
-      github: "https://github.com/AnishBellamkonda/Ecommerce-Website,
+      github: "https://github.com/AnishBellamkonda/Ecommerce-Website",
     },
     {
       title: "Portfolio Website",
