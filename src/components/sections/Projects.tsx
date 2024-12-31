@@ -9,12 +9,12 @@ export const Projects = () => {
     {
       title: "Plant Disease Classification",
       description: "Built a machine learning model using image processing techniques to identify plant diseases.",
-      github: "https://github.com/AnishBellamkonda/plant-disease-classification",
+      github: "https://github.com/AnishBellamkonda/Peach_Leaf_Disease_Detection",
     },
     {
       title: "E-Commerce Platform",
       description: "Developed a scalable e-commerce platform with React.js and Node.js.",
-      github: "https://github.com/AnishBellamkonda/ecommerce-platform",
+      github: "https://github.com/AnishBellamkonda/Ecommerce-Website,
     },
     {
       title: "Portfolio Website",
@@ -23,13 +23,13 @@ export const Projects = () => {
     },
     {
       title: "Banking Project",
-      description: "I spearheaded a project utilizing Python libraries like Pandas, NumPy, Matplotlib, and Scikit-learn to predict client subscriptions to term deposits for a Portuguese bank." ,
+      description: " Predict if client will Subscribe to a term deposits based on analysis of the marketing campaigns" ,
       github: "https://github.com/AnishBellamkonda/Banking-Project"
     },
     {
       title: "Sentiments detection from IMBD movie review dataset",
       description: "The Sentiment Analysis on IMDB Movie Reviews GitHub project provides a Python solution for analyzing sentiments in IMDB reviews",
-      github: "https://github.com/AnishBellamkonda/Sentimental-analysis-on-IMDB-movie-review",
+      github: "https://github.com/AnishBellamkonda/Sentimental-analysis-on-IMDB-movie-reviews",
     },
     
   ];
